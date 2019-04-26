@@ -9,7 +9,7 @@ namespace My.Test
         public void TestMethod1()
         {
             // ARRANGE //
-            const int Expected = 2;
+            const int Expected = 3;
 
             // ACT //
             int Actual = 1 + 1;
